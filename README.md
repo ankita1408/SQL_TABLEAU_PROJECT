@@ -32,5 +32,8 @@ This project involves analyzing Covid-19 data using SQL queries and visualizing 
 3. **Continent-wise Death Count**: Bar chart of death counts by continent.
 4. **Infected Population Forecast**: Line chart forecasting percentage of population infected.
 
+
+![Tableau Dashboard]([path/to/your/image.png](https://github.com/ankita1408/SQL_TABLEAU_PROJECT/blob/main/Screenshot%202025-01-13%20004855.png))
+
 ---
 
